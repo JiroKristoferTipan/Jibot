@@ -1,0 +1,2 @@
+# Jibot
+personal discord bot
